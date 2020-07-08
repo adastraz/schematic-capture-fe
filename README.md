@@ -86,7 +86,7 @@ An iOS/web app for capturing and annotating huge machines in some of the countri
 
 # Tech Stack
 
-### Front end deployed to [Amplify](https://schematiccapture.com) and built using:
+### Front end deployed to [AWS Amplify](https://schematiccapture.com) and built using:
 
 - [Axios](https://www.npmjs.com/package/axios)
 
