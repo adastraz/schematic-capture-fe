@@ -86,7 +86,7 @@ An iOS/web app for capturing and annotating huge machines in some of the countri
 
 # Tech Stack
 
-### Front end deployed to [Netlify](https://app.netlify.com/sites/schematic/overview) and built using:
+### Front end deployed to [Amplify](https://schematiccapture.com) and built using:
 
 - [Axios](https://www.npmjs.com/package/axios)
 
@@ -116,7 +116,7 @@ An iOS/web app for capturing and annotating huge machines in some of the countri
 
 - [Sweet Alert](https://www.npmjs.com/package/sweet-alert)
 
-### Backend deployed to [Heroku](https://www.heroku.com/) and built using:
+### [Backend](https://github.com/adastraz/schematic-capture-be) deployed to [Heroku](https://www.heroku.com/) and built using:
 
 #### NodeJs/Express/PostgreSQL
 
