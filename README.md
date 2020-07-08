@@ -37,18 +37,51 @@ Current version: 0.3. This app is in Alpha phase of the release life cycle for i
 
 - **Brad Zickafoose** - [Github](https://github.com/bradzickafoose)
 
-# Project Overview
+
+
+## Labs 22 - Second Product Cycle
+
+### Team Lead
+
+- **Mark French** – [Github](https://github.com/juarezfrench)
+
+### UX
+
+- **Sarina Van Der Waag** 
+
+### iOS
+
+- **Troy Christian** – [Github](https://github.com/TroyChristian)
+
+### Full-Stack Web Developers
+
+- **Tyler Thompson** - [Github](https://github.com/adastraz)
+
+- **Vincent Sanders** - [Github](https://github.com/vincesanders)
+
+- **Ashton Ragan** - [Github](https://github.com/AshtonRagan)
+
+- **Danielle Blackwell** - [Github](https://github.com/BleuxGenius)
+
+- **Adam Winzenburger** - [Github](https://github.com/adamwinzdesign)
+
+# Project Overview Labs 20
 
 [Trello Board](https://trello.com/b/Amx4wIKW/labs-20-schematic-capture) | [Product Canvas](https://www.notion.so/Schematic-Capture-d4594ebf93ff4c6aba7942aea0546fea) | [UX Design files](https://www.notion.so/Schematic-Capture-d4594ebf93ff4c6aba7942aea0546fea#b59c986612b64c98badcfca0169aaeef)
+
+# Project Overview Labs 22
+[Trello Board](https://trello.com/b/Z6tCs69r/labs-22-schematic-capture) | [Product Canvas](https://www.notion.so/150f546ce39b4698b69bb96291a56b36?v=1ff17d3dc81849009cfca67d5d626a31) | [Figma Design Files](https://www.figma.com/file/cFDM1JqxOSem73IdYGSntU/Schematic-Capture?node-id=1%3A2)
 
 An iOS/web app for capturing and annotating huge machines in some of the countries larger steel manufacturing facilities 🔥 It needs offline capabilities to be able to capture photos and annotate them in facilities that often have no network or signal available to them.
 
 ### Key Features
 
-- Authentication with Firebase
+- Authentication with Okta
 - Send registration invitation by email
 - Import data from CSV to the database
-- Upload PDF to Firebase cloud storage
+- Upload PDF
+- Import images to Dropbox
+- 
 
 # Tech Stack
 
@@ -61,8 +94,6 @@ An iOS/web app for capturing and annotating huge machines in some of the countri
 - [CSV to JSON](https://www.npmjs.com/package/csvtojson)
 
 - [Dotenv](https://www.npmjs.com/package/dotenv)
-
-- [Firebase](https://www.npmjs.com/package/firebase)
 
 - [Lodash Throttle](https://www.npmjs.com/package/lodash.throttle)
 
@@ -95,9 +126,9 @@ An iOS/web app for capturing and annotating huge machines in some of the countri
 # APIs
 - See endpoint on BE
 
-### [Firebase](https://console.firebase.google.com/)
+### [Okta](https://www.okta.com/)
 
-Firebase includes a whole suite of products available to benefit owner/user/developer including Analytics, Authentication, and Storage.
+Okta was the required field of authentication for Labs 22, so we made sure to abide by that.
 
 ### [Font Awesome](https://fontawesome.com/)
 
